@@ -29,5 +29,4 @@ The core objective was to understand and implement real-world concepts used in m
 - Modularizing an app with MVVM architecture
 
 
-## License
-This project is licensed under the MIT License.
+
